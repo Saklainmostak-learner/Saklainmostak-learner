@@ -1,6 +1,6 @@
 <div align="center">
 
-![Md. Saklain Mostak - GitHub Banner](./assets/github-banner.png)
+![Md. Saklain Mostak - GitHub Banner](github-banner.png)
 
 # Hi, I'm Md. Saklain Mostak 👋
 
